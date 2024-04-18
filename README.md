@@ -13,12 +13,15 @@ Je suis un développeur front-end passionné par la création d'expériences web
 Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 - 🚀 Créez une application web de location immobilière avec React.
-  ![Logo Projet 1](https://github.com/JordanKlashi/Create-portfolio/assets/129075458/e73df31f-4dd4-44a4-bdf1-1796d87ad7c5)
+  
+  <img src="https://github.com/JordanKlashi/Create-portfolio/assets/129075458/e73df31f-4dd4-44a4-bdf1-1796d87ad7c5" alt="Projet 1" width="400px"/>
 
 - 🌟 Optimisez le référencement d'un site de photographe.
+  
   ![Logo Projet 2](https://github.com/JordanKlashi/Create-portfolio/assets/129075458/b6dd3e52-1d8a-4302-8d53-ed412ffd95a1)
 
 - ⚡ Implémentez le front-end d'une application bancaire avec React.
+  
   ![Logo Projet 3](https://github.com/JordanKlashi/Create-portfolio/assets/129075458/838772db-e662-405b-8843-3411c41e0820)
 
 ## Contact
