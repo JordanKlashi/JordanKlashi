@@ -12,13 +12,13 @@ Je suis un développeur front-end passionné par la création d'expériences web
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
-- 🚀 **Nom du Projet 1** - Description brève du projet et technologies utilisées.
+- 🚀 Créez une application web de location immobilière avec React.
   ![Logo Projet 1](lien_vers_logo)
 
-- 🌟 **Nom du Projet 2** - Description brève du projet et technologies utilisées.
+- 🌟 Optimisez le référencement d'un site de photographe.
   ![Logo Projet 2](lien_vers_logo)
 
-- ⚡ **Nom du Projet 3** - Description brève du projet et technologies utilisées.
+- ⚡ Implémentez le front-end d'une application bancaire avec React.
   ![Logo Projet 3](lien_vers_logo)
 
 ## Contact
