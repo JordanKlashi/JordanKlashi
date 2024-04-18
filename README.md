@@ -1,14 +1,3 @@
-<style>
-  h1 {
-    color: #333;
-    font-size: 24px;
-  }
-  p {
-    color: #666;
-    font-size: 16px;
-  }
-</style>
-
 # Salut, je suis Jordan! 👋
 
 ## À propos de moi
