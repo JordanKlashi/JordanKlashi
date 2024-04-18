@@ -23,4 +23,4 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
 ## Contact
 
-📫 Vous pouvez me contacter par email à [verbreukjordan@gmail.com](mailto:verbreukjordan@gmail.com) ou via [LinkedIn][https://www.linkedin.com/in/jordan-verbreuk-2b19852a4/].
+📫 Vous pouvez me contacter par email à [verbreukjordan@gmail.com](mailto:verbreukjordan@gmail.com) ou via [LinkedIn](https://www.linkedin.com/in/jordan-verbreuk-2b19852a4/).
