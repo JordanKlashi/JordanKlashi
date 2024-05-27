@@ -4,9 +4,9 @@
 
 Je suis un développeur front-end passionné par la création d'expériences web. Actuellement, je me forme également dans le développement back-end pour devenir un développeur full-stack polyvalent.
 
-- 💻 Compétences : React, JavaScript, HTML, CSS
-- 🌱 En train d'apprendre : Nextjs, développement back-end js
-- 🔭 Actuellement sur : Projets personnels et apprentissage continu
+- 💻 Compétences : React, JavaScript, HTML, CSS, Nodejs, Express, MongoDB, Postgre, SQL
+- 🌱 En train d'apprendre : Nextjs
+- 🔭 Actuellement sur : Projet Fullstack : E-commerce, AI-Assisted SaaS
 
 ## Projets
 
